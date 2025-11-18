@@ -1,0 +1,22 @@
+# Week 3: Literature Survey
+
+## Objectives
+- Analyze existing chatbot systems in education.
+- Identify strengths and limitations of different approaches.
+
+## Activities Completed
+- Reviewed academic sources on chatbot design and deployment.
+- Compared NLP-based bots with Gemini API-based systems.
+- Highlighted challenges in chatbot development.
+
+## Key Insights
+- NLP-based bots require training and maintenance.
+- Gemini API offers lightweight, accurate, and scalable alternatives.
+- Chatbots improve accessibility and reduce admin workload.
+
+## Deliverables
+- `survey_summary.md`: Summary of reviewed literature.
+- `references.md`: Harvard-style citations.
+
+## Next Steps
+- Begin frontend and backend development.
