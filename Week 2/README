@@ -1,0 +1,29 @@
+# Week 2: UML Diagrams and System Design
+
+## Objectives
+- Model the chatbot system using UML diagrams.
+- Define system architecture and component interactions.
+
+## Activities Completed
+- Created the following diagrams:
+  - Use Case Diagram
+  - Activity Diagram
+  - Sequence Diagram
+  - Class Diagram
+  - Component Diagram
+  - Deployment Diagram
+  - State Diagram
+  - Data Flow Diagram
+
+## Deliverables
+- `.png` images of each diagram
+- Diagram descriptions
+
+## Key Design Notes
+- Modular architecture using React and Gemini API
+- Stateless backend with structured document querying
+- Clear separation of frontend, backend, and data layers
+
+## Next Steps
+- Conduct literature survey to compare existing chatbot solutions.
+ 
