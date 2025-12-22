@@ -1,9 +1,0 @@
-# Functional Requirements
-- Respond to queries about courses, admissions, schedules, and rules.
-- Use Gemini API to fetch answers from structured documents.
-- Provide real-time responses via college website.
-
-# Non-Functional Requirements
-- High accuracy and consistency
-- Scalable and lightweight
-- Easy to maintain and update
